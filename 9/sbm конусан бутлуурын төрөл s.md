@@ -199,3 +199,14 @@ sbm конусан бутлуурын элэгддэг эд анги; Конус
 ## Монгол улс Хоёрдогч бутлуур 215 tph
 зэсийн хаягдал бутлуурыг нунтаг болгон. Энэтхэг дэх бутлуурын үйлдвэр 200 Tph. 2000 - Tumi Raise Boring. The 2000 is the most powerful machine of the family, capable of drilling very long holes and boring raises of 26 ft (8 m) or larger in certain rock conditions and up to 8,200 ft 
 <a href="https://mnn.zoosnet.net/LR/Chatpre.aspx?id=MNN94995150&p=https://vbl.co.za/" target="_blank">Үнэ авах</a>
+## Related Posts:
+* [wmw нунтаглах өмнөд](wmw%20%D0%BD%D1%83%D0%BD%D1%82%D0%B0%D0%B3%D0%BB%D0%B0%D1%85%20%D3%A9%D0%BC%D0%BD%D3%A9%D0%B4.md)
+* [зам барилгын ажилд ашигласан буталсан боржин машин](%D0%B7%D0%B0%D0%BC%20%D0%B1%D0%B0%D1%80%D0%B8%D0%BB%D0%B3%D1%8B%D0%BD%20%D0%B0%D0%B6%D0%B8%D0%BB%D0%B4%20%D0%B0%D1%88%D0%B8%D0%B3%D0%BB%D0%B0%D1%81%D0%B0%D0%BD%20%D0%B1%D1%83%D1%82%D0%B0%D0%BB%D1%81%D0%B0%D0%BD%20%D0%B1%D0%BE%D1%80%D0%B6%D0%B8%D0%BD%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD.md)
+* [гинжит уул уурхайн](%D0%B3%D0%B8%D0%BD%D0%B6%D0%B8%D1%82%20%D1%83%D1%83%D0%BB%20%D1%83%D1%83%D1%80%D1%85%D0%B0%D0%B9%D0%BD.md)
+* [хуванцар бутлах нунтаглах машин](%D1%85%D1%83%D0%B2%D0%B0%D0%BD%D1%86%D0%B0%D1%80%20%D0%B1%D1%83%D1%82%D0%BB%D0%B0%D1%85%20%D0%BD%D1%83%D0%BD%D1%82%D0%B0%D0%B3%D0%BB%D0%B0%D1%85%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD.md)
+* [дүүргэгч бутлуурын машин герман](%D0%B4%D2%AF%D2%AF%D1%80%D0%B3%D1%8D%D0%B3%D1%87%20%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80%D1%8B%D0%BD%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%20%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD.md)
+* [програмууд алх өөр](%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D1%83%D0%B4%20%D0%B0%D0%BB%D1%85%20%D3%A9%D3%A9%D1%80.md)
+* [галактик алт олборлолт хязгаарлагдмал төмрийн хүдэр баяжуулах бутлуур](%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%20%D0%B0%D0%BB%D1%82%20%D0%BE%D0%BB%D0%B1%D0%BE%D1%80%D0%BB%D0%BE%D0%BB%D1%82%20%D1%85%D1%8F%D0%B7%D0%B3%D0%B0%D0%B0%D1%80%D0%BB%D0%B0%D0%B3%D0%B4%D0%BC%D0%B0%D0%BB%20%D1%82%D3%A9%D0%BC%D1%80%D0%B8%D0%B9%D0%BD%20%D1%85%D2%AF%D0%B4%D1%8D%D1%80%20%D0%B1%D0%B0%D1%8F%D0%B6%D1%83%D1%83%D0%BB%D0%B0%D1%85%20%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80.md)
+* [хайрцаг бутлуур перт](%D1%85%D0%B0%D0%B9%D1%80%D1%86%D0%B0%D0%B3%20%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80%20%D0%BF%D0%B5%D1%80%D1%82.md)
+* [колумбын төмрийн хүдрийн уурхайн ассоциаци](%D0%BA%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D1%8B%D0%BD%20%D1%82%D3%A9%D0%BC%D1%80%D0%B8%D0%B9%D0%BD%20%D1%85%D2%AF%D0%B4%D1%80%D0%B8%D0%B9%D0%BD%20%D1%83%D1%83%D1%80%D1%85%D0%B0%D0%B9%D0%BD%20%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8.md)
+* [родман хитийн хөвөн тээрэм](%D1%80%D0%BE%D0%B4%D0%BC%D0%B0%D0%BD%20%D1%85%D0%B8%D1%82%D0%B8%D0%B9%D0%BD%20%D1%85%D3%A9%D0%B2%D3%A9%D0%BD%20%D1%82%D1%8D%D1%8D%D1%80%D1%8D%D0%BC.md)

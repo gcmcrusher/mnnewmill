@@ -143,3 +143,14 @@ Julia library for 1-d and 2-d splines. This is a Julia wrapper for the dierckx F
 ## Spline Shafts 
 Shafts are 1045 carbon steel, a general purpose shafting material that balances high strength and good machinability. They are 48 long and have six 12 -long splined grooves on one end. The straight end is turned, ground, and polished for a smooth, round finish. The edges are chamfered to remove sharp corners, reducing damage to bearings 
 <a href="https://mnn.zoosnet.net/LR/Chatpre.aspx?id=MNN94995150&p=https://vbl.co.za/" target="_blank">Үнэ авах</a>
+## Related Posts:
+* [цохилтот бутлуурын үнэthe](%D1%86%D0%BE%D1%85%D0%B8%D0%BB%D1%82%D0%BE%D1%82%20%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80%D1%8B%D0%BD%20%D2%AF%D0%BD%D1%8Dthe.md)
+* [нүүрсний сул талыг ашиглах](%D0%BD%D2%AF%D2%AF%D1%80%D1%81%D0%BD%D0%B8%D0%B9%20%D1%81%D1%83%D0%BB%20%D1%82%D0%B0%D0%BB%D1%8B%D0%B3%20%D0%B0%D1%88%D0%B8%D0%B3%D0%BB%D0%B0%D1%85.md)
+* [хар тугалга цайрын хүдэр боловсруулах үйлдвэр нийлүүлэгчид](%D1%85%D0%B0%D1%80%20%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B3%D0%B0%20%D1%86%D0%B0%D0%B9%D1%80%D1%8B%D0%BD%20%D1%85%D2%AF%D0%B4%D1%8D%D1%80%20%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D1%80%D1%83%D1%83%D0%BB%D0%B0%D1%85%20%D2%AF%D0%B9%D0%BB%D0%B4%D0%B2%D1%8D%D1%80%20%D0%BD%D0%B8%D0%B9%D0%BB%D2%AF%D2%AF%D0%BB%D1%8D%D0%B3%D1%87%D0%B8%D0%B4.md)
+* [боксит нунтаглах машин үйлдвэрлэгч нигери](%D0%B1%D0%BE%D0%BA%D1%81%D0%B8%D1%82%20%D0%BD%D1%83%D0%BD%D1%82%D0%B0%D0%B3%D0%BB%D0%B0%D1%85%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%20%D2%AF%D0%B9%D0%BB%D0%B4%D0%B2%D1%8D%D1%80%D0%BB%D1%8D%D0%B3%D1%87%20%D0%BD%D0%B8%D0%B3%D0%B5%D1%80%D0%B8.md)
+* [3d cad эргэлтийн бутлуур](3d%20cad%20%D1%8D%D1%80%D0%B3%D1%8D%D0%BB%D1%82%D0%B8%D0%B9%D0%BD%20%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80.md)
+* [манганы хүдрийн экспортын график](%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD%D1%8B%20%D1%85%D2%AF%D0%B4%D1%80%D0%B8%D0%B9%D0%BD%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%8B%D0%BD%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA.md)
+* [хацарт бутлуур солих хавтан хацарт хавтан](%D1%85%D0%B0%D1%86%D0%B0%D1%80%D1%82%20%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80%20%D1%81%D0%BE%D0%BB%D0%B8%D1%85%20%D1%85%D0%B0%D0%B2%D1%82%D0%B0%D0%BD%20%D1%85%D0%B0%D1%86%D0%B0%D1%80%D1%82%20%D1%85%D0%B0%D0%B2%D1%82%D0%B0%D0%BD.md)
+* [нүүрсний уурхайн sag тээрэм](%D0%BD%D2%AF%D2%AF%D1%80%D1%81%D0%BD%D0%B8%D0%B9%20%D1%83%D1%83%D1%80%D1%85%D0%B0%D0%B9%D0%BD%20sag%20%D1%82%D1%8D%D1%8D%D1%80%D1%8D%D0%BC.md)
+* [чичиргээт дэлгэц барих төлөвлөгөө](%D1%87%D0%B8%D1%87%D0%B8%D1%80%D0%B3%D1%8D%D1%8D%D1%82%20%D0%B4%D1%8D%D0%BB%D0%B3%D1%8D%D1%86%20%D0%B1%D0%B0%D1%80%D0%B8%D1%85%20%D1%82%D3%A9%D0%BB%D3%A9%D0%B2%D0%BB%D3%A9%D0%B3%D3%A9%D3%A9.md)
+* [бутлуур kyc чулуу](%D0%B1%D1%83%D1%82%D0%BB%D1%83%D1%83%D1%80%20kyc%20%D1%87%D1%83%D0%BB%D1%83%D1%83.md)
